@@ -1,4 +1,4 @@
-# henrik.nyh.se
+# Simran Kaur
 
 Static HTML site.
 
